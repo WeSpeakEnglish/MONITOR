@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=I2C2_SDA Pin=DD12-8
+Removed Pin From Net: NetName=I2C2_SCL Pin=DD12-9
+Removed Member From Class: ClassName=PLC1_2 Member=R49
+Removed Member From Class: ClassName=PLC1_2 Member=R52
+Removed Member From Class: ClassName=PLC1_3 Member=R85
+Removed Member From Class: ClassName=PLC1_3 Member=R88
+Change Component Designator: OldDesignator=R116 NewDesignator=R120
+Change Component Designator: OldDesignator=R117 NewDesignator=R121
+Change Component Designator: OldDesignator=R118 NewDesignator=R122
+Change Component Designator: OldDesignator=R119 NewDesignator=R123
+Change Component Designator: OldDesignator=R120 NewDesignator=R124
+Change Component Designator: OldDesignator=R121 NewDesignator=R125
+Added Component: Designator=R116(RES_0402)
+Added Component: Designator=R117(RES_0402)
+Added Component: Designator=R118(RES_0402)
+Added Component: Designator=R119(RES_0402)
+Added Pin To Net: NetName=I2C2_SDA Pin=R116-2
+Added Pin To Net: NetName=I2C2_SCL Pin=R117-2
+Added Pin To Net: NetName=I2C4_SCL Pin=R118-2
+Added Pin To Net: NetName=I2C4_SDA Pin=R119-2
+Added Pin To Net: NetName=NetDD12_8 Pin=DD12-8
+Added Pin To Net: NetName=NetDD12_8 Pin=R116-1
+Added Pin To Net: NetName=NetDD12_8 Pin=R119-1
+Added Net: Name=NetDD12_8
+Added Pin To Net: NetName=NetDD12_9 Pin=DD12-9
+Added Pin To Net: NetName=NetDD12_9 Pin=R117-1
+Added Pin To Net: NetName=NetDD12_9 Pin=R118-1
+Added Net: Name=NetDD12_9
+Added Member To Class: ClassName=PLC1_2 Member=Component R16 Res_0402
+Added Member To Class: ClassName=PLC1_2 Member=Component R17 Res_0402
+Added Member To Class: ClassName=PLC1_3 Member=Component R47 10k
+Added Member To Class: ClassName=PLC1_3 Member=Component R48 10k
+Added Member To Class: ClassName=PLC1_4 Member=Component R85 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R86 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R122 75
+Added Member To Class: ClassName=PLC1_4 Member=Component R123 75
+Added Member To Class: ClassName=PLC1_4 Member=Component R124 75
+Added Member To Class: ClassName=PLC1_4 Member=Component R125 75

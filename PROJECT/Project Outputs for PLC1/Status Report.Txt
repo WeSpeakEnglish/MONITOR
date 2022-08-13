@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PLC1.PrjPcb]
+   Generated File[PLC1.TXT]
+   Generated File[PLC1.LDP]
+   Generated File[PLC1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:52:26 On 21.10.2016

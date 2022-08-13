@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC Pin=C38-2
+Change Component Comment : Designator=C24 Old Comment=0.1uF New Comment=0.01uF
+Change Component Comment : Designator=C55 Old Comment=0.1uF New Comment=0.01uF
+Change Component Comment : Designator=C106 Old Comment=0.1uF New Comment=0.01uF
+Change Component Comment : Designator=C107 Old Comment=0.1uF New Comment=0.01uF
+Change Component Comment : Designator=C108 Old Comment=0.1uF New Comment=0.01uF
+Change Component Comment : Designator=C109 Old Comment=0.1uF New Comment=0.01uF
+Change Component Comment : Designator=C111 Old Comment=0.1uF New Comment=0.01uF
+Change Component Comment : Designator=C67 Old Comment=0.1uF New Comment=10pF
+Change Component Comment : Designator=C125 Old Comment=0.1uF New Comment=12pF
+Change Component Comment : Designator=C126 Old Comment=0.1uF New Comment=12pF
+Change Component Comment : Designator=C82 Old Comment=0.1uF New Comment=18pF
+Change Component Comment : Designator=C83 Old Comment=0.1uF New Comment=18pF
+Change Component Comment : Designator=R5 Old Comment=10k New Comment=22k
+Change Component Comment : Designator=R6 Old Comment=10k New Comment=22k
+Added Pin To Net: NetName=NetDA4_14 Pin=C38-1
+Change Net Name : Old Net Name=NetDA4_14 New Net Name=NetC38_1
+Added Pin To Net: NetName=NetC38_2 Pin=C38-2
+Added Pin To Net: NetName=NetC38_2 Pin=DA4-16
+Added Net: Name=NetC38_2
+Added Member To Class: ClassName=PLC1_3 Member=Component XP6 JUMPER

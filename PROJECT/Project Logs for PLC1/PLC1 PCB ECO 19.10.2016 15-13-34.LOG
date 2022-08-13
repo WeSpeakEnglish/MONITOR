@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=R78-1
+Removed Pin From Net: NetName=NetR78_2 Pin=R78-2
+Change Component Comment : Designator=R78 Old Comment=390 New Comment=75
+Added Pin To Net: NetName=NetR78_2 Pin=R78-1
+Change Net Name : Old Net Name=NetR78_2 New Net Name=NetR78_1
+Added Pin To Net: NetName=LEDA Pin=DD1-152
+Added Pin To Net: NetName=LEDA Pin=R78-2
+Added Net: Name=LEDA
+Added Member To Class: ClassName=PLC1_3 Member=Component C112 0.1uF

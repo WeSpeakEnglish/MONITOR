@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C47 NewDesignator=C48
+Change Component Designator: OldDesignator=C48 NewDesignator=C47
+Added Member To Class: ClassName=PLC1_2 Member=Component XS3 microSD-8-CF
+Added Member To Class: ClassName=PLC1_3 Member=Component XS5 IPEX/U.FL

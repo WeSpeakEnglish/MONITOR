@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=NetC80_1 Pin=C80-1
+Removed Pin From Net: NetName=SWDIO Pin=C111-1
+Removed Pin From Net: NetName=GND Pin=C111-2
+Removed Pin From Net: NetName=SWCLK Pin=XP10-14
+Removed Pin From Net: NetName=SWDIO Pin=XP10-15
+Removed Pin From Net: NetName=SWO Pin=XP10-16
+Removed Member From Class: ClassName=PLC1_3 Member=C96
+Removed Member From Class: ClassName=PLC1_4 Member=C115
+Removed Member From Class: ClassName=PLC1_4 Member=DD11
+Removed Member From Class: ClassName=PLC1_4 Member=R46
+Removed Member From Class: ClassName=PLC1_4 Member=R63
+Removed Member From Class: ClassName=PLC1_4 Member=R64
+Removed Member From Class: ClassName=PLC1_4 Member=R71
+Change Component Comment : Designator=C80 Old Comment=1uF New Comment=100p
+Change Component Designator: OldDesignator=-7V NewDesignator=TP8
+Change Component Designator: OldDesignator=1,8VA NewDesignator=TP5
+Change Component Designator: OldDesignator=1,8VD NewDesignator=TP6
+Change Component Designator: OldDesignator=5V NewDesignator=TP2
+Change Component Designator: OldDesignator=10,4V NewDesignator=TP1
+Change Component Designator: OldDesignator=16V NewDesignator=TP7
+Change Component Designator: OldDesignator=C81 NewDesignator=C82
+Change Component Designator: OldDesignator=C82 NewDesignator=C83
+Change Component Designator: OldDesignator=C83 NewDesignator=C84
+Change Component Designator: OldDesignator=C84 NewDesignator=C85
+Change Component Designator: OldDesignator=C85 NewDesignator=C86
+Change Component Designator: OldDesignator=C86 NewDesignator=C87
+Change Component Designator: OldDesignator=C87 NewDesignator=C88
+Change Component Designator: OldDesignator=C88 NewDesignator=C89
+Change Component Designator: OldDesignator=C89 NewDesignator=C90
+Change Component Designator: OldDesignator=C90 NewDesignator=C91
+Change Component Designator: OldDesignator=C91 NewDesignator=C92
+Change Component Designator: OldDesignator=C92 NewDesignator=C93
+Change Component Designator: OldDesignator=C93 NewDesignator=C94
+Change Component Designator: OldDesignator=C94 NewDesignator=C95
+Change Component Designator: OldDesignator=C95 NewDesignator=C96
+Change Component Designator: OldDesignator=C96 NewDesignator=C97
+Change Component Designator: OldDesignator=C97 NewDesignator=C98
+Change Component Designator: OldDesignator=C98 NewDesignator=C99
+Change Component Designator: OldDesignator=C99 NewDesignator=C100
+Change Component Designator: OldDesignator=C100 NewDesignator=C101
+Change Component Designator: OldDesignator=C101 NewDesignator=C102
+Change Component Designator: OldDesignator=C102 NewDesignator=C103
+Change Component Designator: OldDesignator=C103 NewDesignator=C104
+Change Component Designator: OldDesignator=C104 NewDesignator=C105
+Change Component Designator: OldDesignator=C105 NewDesignator=C106
+Change Component Designator: OldDesignator=C106 NewDesignator=C107
+Change Component Designator: OldDesignator=C107 NewDesignator=C108
+Change Component Designator: OldDesignator=C108 NewDesignator=C109
+Change Component Designator: OldDesignator=C109 NewDesignator=C110
+Change Component Designator: OldDesignator=C110 NewDesignator=C111
+Added Component: Designator=C81(CAP_0603)
+Added Pin To Net: NetName=SWDIO Pin=C80-1
+Added Pin To Net: NetName=NetC80_1 Pin=C80-1
+Added Pin To Net: NetName=GND Pin=C80-2
+Change Net Name : Old Net Name=NetC80_1 New Net Name=NetC81_1
+Change Net Name : Old Net Name=NetC82_1 New Net Name=NetC83_1
+Change Net Name : Old Net Name=NetC98_1 New Net Name=NetC99_1
+Change Net Name : Old Net Name=NetC98_2 New Net Name=NetC99_2
+Change Net Name : Old Net Name=NetC99_1 New Net Name=NetC100_1
+Change Net Name : Old Net Name=NetC99_2 New Net Name=NetC100_2
+Change Net Name : Old Net Name=NetC102_1 New Net Name=NetC103_1
+Change Net Name : Old Net Name=NetC104_1 New Net Name=NetC105_1
+Added Pin To Net: NetName=I2C4_SCL Pin=DD1-100
+Added Net: Name=I2C4_SCL
+Added Pin To Net: NetName=I2C4_SDA Pin=DD1-101
+Added Net: Name=I2C4_SDA
+Added Member To Class: ClassName=PLC1_2 Member=Component C97 0.1uF
+Added Member To Class: ClassName=PLC1_4 Member=Component C118 0.1uF
+Added Member To Class: ClassName=PLC1_4 Member=Component DD12 TW8819-NA2-CRT
+Added Member To Class: ClassName=PLC1_4 Member=Component R74 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R75 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R79 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R82 Res_0402
+Added Member To Class: ClassName=PLC1 Member=Component TP1 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP2 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP5 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP6 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP7 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP8 JUMPER

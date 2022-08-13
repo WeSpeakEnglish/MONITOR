@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=PLC1_2 Member=R49
+Removed Member From Class: ClassName=PLC1_2 Member=R50
+Removed Member From Class: ClassName=PLC1_2 Member=R51
+Removed Member From Class: ClassName=PLC1_3 Member=R84
+Removed Member From Class: ClassName=PLC1_3 Member=R88
+Removed Member From Class: ClassName=PLC1_3 Member=R95
+Change Component Footprint: Designator=VD5 Old Footprint=DO-214AC New Footprint=SOD-123
+Change Component Comment : Designator=VD5 Old Comment=BZG05C3V3TR3 New Comment=3.3V

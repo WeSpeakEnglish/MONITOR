@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=PLC1_2 Member=XP2
+Added Pin To Net: NetName=NetC77_1 Pin=XP1-5
+Added Pin To Net: NetName=GND Pin=XP1-6
+Change Net Name : Old Net Name=NetC77_1 New Net Name=NRST

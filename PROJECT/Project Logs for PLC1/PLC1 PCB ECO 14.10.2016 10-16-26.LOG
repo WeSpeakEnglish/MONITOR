@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=PLC1_2 Member=C102
+Removed Member From Class: ClassName=PLC1_2 Member=C104
+Removed Member From Class: ClassName=PLC1_2 Member=C105
+Removed Member From Class: ClassName=PLC1_2 Member=C107
+Removed Member From Class: ClassName=PLC1_3 Member=C121
+Removed Member From Class: ClassName=PLC1_3 Member=C123
+Removed Member From Class: ClassName=PLC1_3 Member=C126
+Removed Member From Class: ClassName=PLC1_2 Member=R45
+Removed Member From Class: ClassName=PLC1_3 Member=R82
+Added Member To Class: ClassName=PLC1_2 Member=Component C68 0.01uF
+Added Member To Class: ClassName=PLC1_2 Member=Component C69 0.01uF
+Added Member To Class: ClassName=PLC1_2 Member=Component C70 0.01uF
+Added Member To Class: ClassName=PLC1_2 Member=Component C80 100p
+Added Member To Class: ClassName=PLC1_3 Member=Component C117 0.1uF
+Added Member To Class: ClassName=PLC1_3 Member=Component C118 0.1uF
+Added Member To Class: ClassName=PLC1_3 Member=Component C119 0.22 F
+Added Member To Class: ClassName=PLC1_2 Member=Component R25 Res_0402
+Added Member To Class: ClassName=PLC1_3 Member=Component R80 390

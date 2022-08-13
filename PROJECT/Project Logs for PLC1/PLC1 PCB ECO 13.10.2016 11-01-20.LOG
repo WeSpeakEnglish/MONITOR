@@ -1,0 +1,10 @@
+Added Component: Designator=XP1(CI1106Ì1V)
+Added Pin To Net: NetName=VCC Pin=XP1-1
+Added Pin To Net: NetName=SWCLK Pin=XP1-2
+Added Pin To Net: NetName=SWDIO Pin=XP1-3
+Added Pin To Net: NetName=SWO Pin=XP1-4
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC38_1
+Change Net Name : Old Net Name=NetC38_1 New Net Name=NetC37_1
+Change Net Name : Old Net Name=NetC38_2 New Net Name=NetC37_2
+Added Member To Class: ClassName=PLC1_2 Member=Component C81 0.1uF
+Added Member To Class: ClassName=PLC1_2 Member=Component XP1 Connectror 6pin CI1106M1V

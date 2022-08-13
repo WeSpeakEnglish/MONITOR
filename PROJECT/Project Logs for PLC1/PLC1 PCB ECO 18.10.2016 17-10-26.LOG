@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=CDMMC1_D2 Pin=XS3-1
+Removed Pin From Net: NetName=CDMMC1_D3 Pin=XS3-2
+Removed Pin From Net: NetName=CDMMC1_CMD Pin=XS3-3
+Removed Pin From Net: NetName=VCC Pin=XS3-4
+Removed Pin From Net: NetName=CDMMC1_CK Pin=XS3-5
+Removed Pin From Net: NetName=GND Pin=XS3-6
+Removed Pin From Net: NetName=CDMMC1_D0 Pin=XS3-7
+Removed Pin From Net: NetName=CDMMC1_D1 Pin=XS3-8
+Removed Member From Class: ClassName=PLC1_4 Member=R83
+Removed Member From Class: ClassName=PLC1_2 Member=XS4
+Removed Member From Class: ClassName=PLC1_3 Member=XS7
+Change Component Designator: OldDesignator=XS4 NewDesignator=XS3
+Change Component Designator: OldDesignator=XS5 NewDesignator=XS4
+Change Component Designator: OldDesignator=XS6 NewDesignator=XS5
+Change Component Designator: OldDesignator=XS7 NewDesignator=XS6
+Change Component Designator: OldDesignator=XS8 NewDesignator=XS7
+Change Component Designator: OldDesignator=XS9 NewDesignator=XS8
+Change Component Designator: OldDesignator=XS10 NewDesignator=XS9
+Added Pin To Net: NetName=CDMMC1_D2 Pin=XS3-1
+Added Pin To Net: NetName=CDMMC1_D3 Pin=XS3-2
+Added Pin To Net: NetName=CDMMC1_CMD Pin=XS3-3
+Added Pin To Net: NetName=VCC Pin=XS3-4
+Added Pin To Net: NetName=CDMMC1_CK Pin=XS3-5
+Added Pin To Net: NetName=GND Pin=XS3-6
+Added Pin To Net: NetName=CDMMC1_D0 Pin=XS3-7
+Added Pin To Net: NetName=CDMMC1_D1 Pin=XS3-8
+Added Member To Class: ClassName=PLC1_3 Member=Component R46 10k
+Added Member To Class: ClassName=PLC1_3 Member=Component R49 120
+Added Member To Class: ClassName=PLC1_3 Member=Component R58 10k
+Added Member To Class: ClassName=PLC1_3 Member=Component R72 Res_1206
+Added Member To Class: ClassName=PLC1_4 Member=Component R85 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R109 390
+Added Member To Class: ClassName=PLC1_4 Member=Component R119 Res_0402
